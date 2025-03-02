@@ -17,7 +17,7 @@ The model follows a Deep Learning approach, incorporating multiple dense layers 
 ## Results
 The final results of the battery lifespan prediction model are compiled in a detailed report. The following document contains the key performance metrics and graphical evaluations:
 
-[Download Results](result.pdf)
+![Result](result.pdf)
 
 ## Dependencies
 To run this project, ensure you have the following dependencies installed:
